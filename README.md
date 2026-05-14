@@ -132,7 +132,7 @@ If you like this project, give it a ⭐ on GitHub!
 
 ## 👨‍💻 Author
 
-### Dishant Modh
+### Bansari Modi
 
 - GitHub: https://github.com/modibansari
 
